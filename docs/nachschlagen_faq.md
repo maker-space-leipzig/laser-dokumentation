@@ -2,13 +2,7 @@
 
 ## Lightburn zeigt nicht die aktuelle Position des Laserkopfs an
 
-Wenn der Laserkopf am Gerät bewegt wurde, dann meldet das Gerät die aktuelle Position nicht an Lightburn zurück und daher ist Lightburn nicht auf dem aktuellen Stand. Du kannst das Problem lösen, indem du in Lightburn eine kleine Bewegung ausführst.
-
-Nutze in Lightburn das Bedienfeld *Bewegung*, um den Laserkopf zu bewegen, zum Beispiel erst einen Schritt nach Links und anschließend wieder nach Rechts.
-
-!!! warning "Sicherheit"
-    Achte darauf, dass die Option *kontinuierliches Joggen* ausgeschaltet ist.
-
+Wenn der Laserkopf am Gerät bewegt wurde, dann meldet das Gerät die aktuelle Position nicht an Lightburn zurück und daher ist Lightburn nicht auf dem aktuellen Stand. Du kannst das Problem lösen, indem du in Lightburn im Bedienfeld *Bewegung* die Schaltfläche *Position abrufen* betätigst.
 
 ## Mein fertig gelasertes Werkstück ist zu groß/ klein
 

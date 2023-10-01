@@ -1,5 +1,5 @@
 # Grundeinstellungen
-site_name: Lasern im Makerspace
+site_name: Lasern im Makerspace Leipzig
 use_directory_urls: false
 extra_css:
   - style.css
