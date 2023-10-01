@@ -1,0 +1,104 @@
+
+/* Breite des Content-Bereichs */
+
+.md-grid {
+    /* max-width: 80% !important; */
+
+}
+
+/* Breite von Tabellen */
+.md-typeset__table {
+    min-width: 100% !important;
+}
+
+.md-typeset__table tr {
+    width: 100% !important;
+}
+
+
+
+/* Navigation-Sidebar (links): Farbe des Sektionstitels + Oberer Abstand der Sektion*/
+
+ul li label {
+    color: #363636 !important;
+    font-size: 1.2em;
+}
+
+ul .md-nav__item--nested {
+    margin-top: 36px;
+}
+
+
+
+/* Navigation-Sidebar (links): Farbe des Seitentitels oben im Menü */
+
+.md-nav--primary .md-nav__title {
+    display: none;
+}
+
+
+/* Sidbar (rechts): Farbe von "Inhaltsverzeichnis" */
+
+.md-nav--secondary .md-nav__title {
+    color: #363636 !important;
+}
+
+
+/* Überschriften */
+h1 {
+    font-size: 48px !important;
+    font-weight: 600 !important;
+}
+
+h2 {
+    font-size: 36px !important;
+    font-weight: 400 !important;
+}
+
+h2:not(:first-of-type) {
+    margin-top: 12px !important;
+}
+
+h3 {
+    font-size: 32px !important;
+    font-weight: 300 !important;
+    margin-top: 18px !important;
+    margin-bottom: 0px !important;
+}
+
+
+
+
+
+
+/* Breite-Formatierungen für Bilder, die mit entsprechenden Alternativtexte benannt sind  */
+
+img[alt=img40] {
+    width: 40% !important;
+    margin: auto;
+    display: block;
+}
+
+img[alt=img50] {
+    width: 50% !important;
+    margin: auto;
+    display: block;
+}
+
+img[alt=img60] {
+    width: 60% !important;
+    margin: auto;
+    display: block;
+}
+
+img[alt=img70] {
+    width: 70% !important;
+    margin: auto;
+    display: block;
+}
+
+img[alt=img80] {
+    width: 80% !important;
+    margin: auto;
+    display: block;
+}

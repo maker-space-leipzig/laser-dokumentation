@@ -1,0 +1,55 @@
+# Grundeinstellungen
+site_name: Lasern im Makerspace
+use_directory_urls: false
+extra_css:
+  - style.css
+
+# Theme inkl. Spracheinstellugn
+theme:
+  name: material
+  language: de
+  logo: assets/Icon - Laser.png
+  features:
+    - navigation.sections
+    - navigation.footer
+  plugins:
+    - offline
+    - search
+
+# Navigation: Sektionen und Reihenfolge der Seiten
+
+nav:
+  - 'index.md'
+  - Einsteiger:
+    - 'einsteiger_gerätestart.md'
+    - 'einsteiger_lightburn_grundlagen.md'
+    - 'einsteiger_lightburn_lasern.md'
+  - Nachschlagen:
+    - 'nachschlagen_materialliste.md'
+    - 'nachschlagen_materialtest.md'
+    - 'nachschlagen_checklisten.md'
+    - 'nachschlagen_faq.md'
+  - Wartung:
+    - 'wartung_mkdocs.md'
+    - 'wartung_prozess.md'
+    - 'wartung_einstellungen.md'
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - mdx_truly_sane_lists
+  - pymdownx.details
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+
+
+copyright: <a href="https://www.flaticon.com/de/kostenlose-icons/laser-behandlung" target="_blank" title="Laser-Icon">Laser-Icon erstellt von Smashicons - Flaticon</a>
