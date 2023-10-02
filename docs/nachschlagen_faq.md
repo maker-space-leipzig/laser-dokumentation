@@ -4,7 +4,7 @@
 
 Wenn der Laserkopf am Gerät bewegt wurde, dann meldet das Gerät die aktuelle Position nicht an Lightburn zurück und daher ist Lightburn nicht auf dem aktuellen Stand. Du kannst das Problem lösen, indem du in Lightburn im Bedienfeld *Bewegung* die Schaltfläche *Position abrufen* betätigst.
 
-## Mein fertig gelasertes Werkstück ist zu groß/ klein
+## Mein gelasertes Werkstück ist zu groß/ klein
 
 Hier gibt es 2 Möglichkeiten:
 
