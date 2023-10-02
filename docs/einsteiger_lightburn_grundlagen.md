@@ -1,7 +1,5 @@
 # Einführung in Lightburn
-Auf dem folgenden Bild siehst Du eine grundlegende Übersicht zu Lightburn:
 ![Screenshot Lightburn](assets/Screenshot - Lightburn.png)
-Auf der rechten Seiten verschiedenen sich verschiedene Bedienfelder in derselben Fläche. Du kannst über die Tabs zwischen den Bedienfeldern wechseln.
 
 === "Werkzeuge"
 
@@ -14,11 +12,20 @@ Auf der rechten Seiten verschiedenen sich verschiedene Bedienfelder in derselben
     - Array-Werkzeuge, um ein Schnittmuster automatisch zu vervielfältigen
     - Bearbeitungswerkzeuge für Punkte/ Ecken
 
+=== "Informationsleiste"
+
+    Hier werden Informationen (u.a. Position, Größe) zum aktuell ausgewählten Objekt angezeigt. Wenn ein Text ausgewählt ist, dann kann hier die Schriftart, -größe usw. eingestellt werden.
+
+    Im rechten Teil der Leiste befinden sich erweiterte Funktionen zum Anordnen von Objekten.
+
+
 === "Ebenen"
 
     Schnittmuster können auf mehrere Ebenen verteilt werden. So kannst Du bequem unterschiedliche Teile deines Schnittmusters mit unterschiedlichen Einstellungen lasern.
 
     Bei den Ebenen wird die Art des Laserns (Schneiden/ Gravur) sowie die Laserstärke eingestellt. Bei Bedarf auch andere Einstellungen (z.B. Anzahl der Durchgänge, Versatz).
+
+    Die Bedienfelder *Ebenen* und *Bewegung* befinden sich an der gleichen Stelle. Man wechselt zwischen beiden über die Tabs.
 
 === "Bewegung"
 
@@ -28,11 +35,8 @@ Auf der rechten Seiten verschiedenen sich verschiedene Bedienfelder in derselben
 
 === "Laser"
 
-    Hier erfolgt die Steuerung des Laservorgangs (Start, Stop, Pause). Du kannst auswählen
+    Hier erfolgt die grundlegende Steuerung des Laservorgangs (Start, Stop, Pause, Ausgangspunkt des Laserns).
 
 === "Bibliothek"
 
-    In der Materialbibliothek
-
-
-
+    In der Materialbibliothek können Einstellungen zum Lasern abgelegt werden, sodass diese später bequem wiederverwendet können.

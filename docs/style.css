@@ -102,3 +102,11 @@ img[alt=img80] {
     margin: auto;
     display: block;
 }
+
+
+
+/* Mermaid */
+
+.mermaid {
+    text-align: center;
+}

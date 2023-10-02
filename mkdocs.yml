@@ -30,9 +30,9 @@ nav:
     - 'nachschlagen_checklisten.md'
     - 'nachschlagen_faq.md'
   - Wartung:
-    - 'wartung_mkdocs.md'
-    - 'wartung_prozess.md'
-    - 'wartung_einstellungen.md'
+    - 'wartung_dokumentation.md'
+    - 'wartung_geräteeinstellungen.md'
+    - 'wartung_gerätewartung.md'
 
 markdown_extensions:
   - admonition
