@@ -17,7 +17,7 @@
 | ------------------------- | --------- | :------------------: | :-------------------------------------------------------: |
 | Holz/ Sperrholz           | -         |          -           |                             -                             |
 | Hochdichte Faserplatte    | HDF       |          -           |                             -                             |
-| Kraftplex                 | -         |          -           | Besteht aus HOlzfasern ohne Leim oder anderen Klebstoffen |
+| Kraftplex                 | -         |          -           | Besteht aus Holzfasern ohne Leim oder anderen Klebstoffen |
 | Leder                     | -         |          -           |               Solange nicht Chrom IV haltig               |
 | Mitteldichte Fasterplatte | MDF       |          -           |                             -                             |
 | Papier, Karton            | -         |          -           | Achtung: Leicht entflammbar bei zu langsamer Verarbeitung |

@@ -42,7 +42,7 @@ Du kannst dich beim Bearbeiten an den bestehenden Inhalten orientieren. Ein leic
 - [Markdown-Cheatsheet](https://www.markdownguide.org/cheat-sheet/){:target="_blank"}
 - [Emojis](https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/){:target="_blank"} (Empfehlung: Suchfeld benutzen)
 - [Bausteine des Themes](https://squidfunk.github.io/mkdocs-material/reference/admonitions/){:target="_blank"} (Hinweiskästen, Tabs etc.)
-- [Mermai-Dokumentation](https://mermaid.js.org/intro/){:target="_blank"} (Ablaufdiagramme)
+- [Mermaid-Dokumentation](https://mermaid.js.org/intro/){:target="_blank"} (Ablaufdiagramme)
 - [Mermaid-Cheatsheet](https://jojozhuang.github.io/tutorial/mermaid-cheat-sheet/){:target="_blank"}
 
 ### Breite von Bildern definieren
