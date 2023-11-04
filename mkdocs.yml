@@ -21,8 +21,7 @@ theme:
 nav:
   - 'index.md'
   - Einsteiger:
-    - 'einsteiger_gerätestart.md'
-    - 'einsteiger_lightburn_grundlagen.md'
+    - 'einsteiger_gerätestart.md'    
     - 'einsteiger_lightburn_lasern.md'
   - Nachschlagen:
     - 'nachschlagen_materialliste.md'

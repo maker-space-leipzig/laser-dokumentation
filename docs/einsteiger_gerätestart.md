@@ -22,3 +22,6 @@ Zum Einschalten des Geräts müssen die folgenden Schritte durchgeführt werden:
 === "Lüftung"
 
     ![img60](assets/Foto - Lüftung.jpg)
+
+
+## Laserkopf justieren
