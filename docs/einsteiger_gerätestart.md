@@ -86,7 +86,9 @@ Drehe die obere Windung des Laserkopfes auf. Schiebe den Schaft nach unten, bis 
 
 Häufiger Fehler: der Schaft des Laserkopfes ist viel zu weit rausgezogen. Ziehe ihn beim Fokus-einstellen nicht noch weiter raus. Schiebe den Schaft zunächst ganz nach oben und drehe ihn erstmal wieder zu. Fahre dann die Arbeitsfläche höher (Z-Achse). Stelle dann den Fokus mithilfe der Scheibe ein.
 
-(Bild richtig / falsch)
+| ![img60](assets/fotoSchaftRichtig.jpg)   |![img60](assets/fotoSchaftFalsch.jpg)   |
+| ---------------------------------------- | :------------------------------------: |
+| <p style="text-align: center;">Richtig</p>        | <p style="text-align: center;">Schaft zu weit raus</p>   |
 
 Achte beim zudrehen darauf, dass das Ventil nach links oder hinten zeigt. Das ist wichtig, da es in den anderen Richtungen gegen die Wände fahren würde. Auch wenn du nicht vorhast, die ganze Fläche zu verwenden, es kann immer aus Versehen passieren, dass man mit dem Laserkopf an die Ränder fährt.
 

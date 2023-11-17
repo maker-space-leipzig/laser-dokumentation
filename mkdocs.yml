@@ -23,6 +23,7 @@ nav:
   - Einsteiger:
     - 'einsteiger_gerätestart.md'    
     - 'einsteiger_lightburn_lasern.md'
+    - 'einsteiger_beenden.md'
   - Nachschlagen:
     - 'nachschlagen_materialliste.md'
     - 'nachschlagen_materialtest.md'
