@@ -62,18 +62,23 @@ Die Stäbe dienen als Auflagefläche für dein Werkstück.
 
 Setze die Stäbe mit der spitzen Seite nach oben in ihre Führungen ein. Die Stäbe liegen locker in den Führungen. Nicht mit Gewalt runterdrücken! Wenn es hakt, steckt der Stab wahrscheinlich vorne oder hinten unter dem Rahmen.
 
-(Bild)
+| ![img80](assets/fotoStabRichtig.jpg)   |![img80](assets/fotoStabFalsch.jpg)   |
+| ---------------------------------------- | :------------------------------------: |
+| <p style="text-align: center;">Richtig</p>        | <p style="text-align: center;">Stab steckt unter dem Rahmen</p>   |
 
-Achte darauf, dass das Stück, das ausgeladert wird, auf den Stäben liegenbleibt. Sollte es rausfallen, darf es nicht verkanten, da sonst der Laserkopf dagegen stoßen kann. Ganz kleine Stücke dürfen zwischen den Stäben durchfallen.
 
-(Bild richtig und falsch)
+Achte darauf, dass das Stück, das ausgelasert wird, auf den Stäben liegenbleibt. Sollte es rausfallen, darf es nicht verkanten, da sonst der Laserkopf dagegen stoßen kann. Ganz kleine Stücke dürfen zwischen den Stäben durchfallen.
+
+![img80](assets/fotoVerkantet.jpg)
+
+<br>
 
 
 ### Fokus einstellen
 
 Leg dein Werkstück auf die Stäbe, unter den Laserkopf. Wenn die Arbeitsfläche sehr weit oben oder unten ist, fahre die Arbeitsfläche entsprechend ein Stück runter oder hoch (Z-Achse). Der Schalter für die Z-Achse befindet sich an der rechten Seite des Lasers.
 
-Achtung: Fahre dabei nie mit dem Werkstück bis an den Laserkopf ran!
+Achtung: Fahre dabei nie mit der Arbeitsfläche bis an den Laserkopf ran!
 
 Den Laserkopf kannst du mit den grünen Pfeiltasten am Laser in X- und Y-Richtung bewegen (genaueres zu allen Tasten siehe ...)
 
@@ -86,7 +91,7 @@ Drehe die obere Windung des Laserkopfes auf. Schiebe den Schaft nach unten, bis 
 
 Häufiger Fehler: der Schaft des Laserkopfes ist viel zu weit rausgezogen. Ziehe ihn beim Fokus-einstellen nicht noch weiter raus. Schiebe den Schaft zunächst ganz nach oben und drehe ihn erstmal wieder zu. Fahre dann die Arbeitsfläche höher (Z-Achse). Stelle dann den Fokus mithilfe der Scheibe ein.
 
-| ![img60](assets/fotoSchaftRichtig.jpg)   |![img60](assets/fotoSchaftFalsch.jpg)   |
+| ![img80](assets/fotoSchaftRichtig.jpg)   |![img80](assets/fotoSchaftFalsch.jpg)   |
 | ---------------------------------------- | :------------------------------------: |
 | <p style="text-align: center;">Richtig</p>        | <p style="text-align: center;">Schaft zu weit raus</p>   |
 
@@ -96,9 +101,11 @@ Achte beim zudrehen darauf, dass das Ventil nach links oder hinten zeigt. Das is
 
 !!! info "Bei Bedarf: Werkstück beschweren"
     Wenn das Werkstück leicht gebogen ist, kann es mit Metallplatten beschwert werden. Nach Möglichkeit kein stark gebogenes Werkstück lasern.
-    Die Metallplatten dürfen nicht höher sein als der Abstand zwischen Werkstück und Laserkopf (siehe Fokus einstellen)
+    Die Metallplatten dürfen nicht höher sein als der Abstand zwischen Werkstück und Laserkopf.
 
-    (Bild)
+    | ![img](assets/fotoPlattenRichtig.jpg)   |![img](assets/fotoPlattenFalsch.jpg)   |
+    | ---------------------------------------- | :------------------------------------: |
+    | <p style="text-align: center;">Richtig</p>        | <p style="text-align: center;">Platten zu hoch gestapelt</p>   |
 
 
 

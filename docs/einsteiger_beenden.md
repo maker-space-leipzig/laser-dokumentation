@@ -21,8 +21,7 @@
 
 7. Schalte den Laser mit dem Schlüssel aus und leg den Schlüssel in die Laser-Schublade. Schließe die Laser-Schublade ab und hänge den Schubladenschlüssel zurück in den Tresor
 
-
-
+8. Decke den Laser zu gegen Staub
 
 !!! warning "Nicht vergessen"
     Trag dich in die Nutzerliste ein bezahle die Lasergebühr
