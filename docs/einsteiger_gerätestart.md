@@ -2,10 +2,12 @@
 
 !!! warning "Sicherheit"
     Bevor es losgeht, stelle sicher dass der CO<sub>2</sub>-Löscher, der Brandeimer und die Zange (zum Greifen von Werkstücken) in der Nähe sind.
-    
-    (BILD)
+
+    ![img80](assets/fotoSicherheit.jpg)
 
     Verwende nur erlaubte [Materialien zum Lasern](nachschlagen_materialliste.md).
+
+    
 
 
 ## Geräte einschalten
@@ -56,6 +58,13 @@ Die Lüftung ist ziemlich laut, du kannst sie daher auch erst dann anschalten be
 
 Öffne die Klappe immer mit beiden Händen damit sie sich nicht verzieht.
 
+### Laserkopf bewegen
+
+Den Laserkopf kannst du mit den grünen Pfeiltasten bewegen. Fahre den Laserkopf zunächst ganz nach hinten bevor du die Stäbe einsetzt.
+
+![img80](assets/fotoLasertasten.jpg)
+<br>
+
 ### Stäbe einsetzen
 
 Die Stäbe dienen als Auflagefläche für dein Werkstück.
@@ -67,7 +76,7 @@ Setze die Stäbe mit der spitzen Seite nach oben in ihre Führungen ein. Die St�
 | <p style="text-align: center;">Richtig</p>        | <p style="text-align: center;">Stab steckt unter dem Rahmen</p>   |
 
 
-Achte darauf, dass das Stück, das ausgelasert wird, auf den Stäben liegenbleibt. Sollte es rausfallen, darf es nicht verkanten, da sonst der Laserkopf dagegen stoßen kann. Ganz kleine Stücke dürfen zwischen den Stäben durchfallen.
+Achte darauf, dass das Stück, das später ausgelasert wird, auf den Stäben liegenbleibt. Sollte es rausfallen, darf es nicht verkanten, da sonst der Laserkopf dagegen stoßen kann. Ganz kleine Stücke dürfen zwischen den Stäben durchfallen.
 
 ![img80](assets/fotoVerkantet.jpg)
 
@@ -76,13 +85,14 @@ Achte darauf, dass das Stück, das ausgelasert wird, auf den Stäben liegenbleib
 
 ### Fokus einstellen
 
-Leg dein Werkstück auf die Stäbe, unter den Laserkopf. Wenn die Arbeitsfläche sehr weit oben oder unten ist, fahre die Arbeitsfläche entsprechend ein Stück runter oder hoch (Z-Achse). Der Schalter für die Z-Achse befindet sich an der rechten Seite des Lasers.
+Leg dein Werkstück auf die Stäbe. Wenn die Arbeitsfläche sehr weit oben oder unten ist, fahre die Arbeitsfläche entsprechend ein Stück runter oder hoch (Z-Achse). Der Schalter für die Z-Achse befindet sich an der rechten Seite des Lasers.
 
 Achtung: Fahre dabei nie mit der Arbeitsfläche bis an den Laserkopf ran!
 
-Den Laserkopf kannst du mit den grünen Pfeiltasten am Laser in X- und Y-Richtung bewegen (genaueres zu allen Tasten siehe ...)
+![img80](assets/fotoZAchse.jpg)
+<br>
 
-Leg die Fokus-Scheibe auf das Werkstück, sodass sie zwischen Werkstück und Laserkopf ist.
+Fahre den Laserkopf über dein Werkstück. Leg die Fokus-Scheibe auf das Werkstück, sodass sie zwischen Werkstück und Laserkopf ist.
 
 Drehe die obere Windung des Laserkopfes auf. Schiebe den Schaft nach unten, bis er auf der Fokus-Scheibe aufsetzt. Drehe die Windung handfest zu. Nicht so festballern, dass es keiner mehr auf kriegt. Ziehe nun die Fokusscheibe raus.
 
@@ -101,7 +111,7 @@ Achte beim zudrehen darauf, dass das Ventil nach links oder hinten zeigt. Das is
 
 !!! info "Bei Bedarf: Werkstück beschweren"
     Wenn das Werkstück leicht gebogen ist, kann es mit Metallplatten beschwert werden. Nach Möglichkeit kein stark gebogenes Werkstück lasern.
-    Die Metallplatten dürfen nicht höher sein als der Abstand zwischen Werkstück und Laserkopf.
+    Die Metallplatten dürfen nicht höher sein als der Abstand zwischen Werkstück und Laserkopf. Verwende daher nur die im Regal bereitliegenden Platten, keine dickeren.
 
     | ![img](assets/fotoPlattenRichtig.jpg)   |![img](assets/fotoPlattenFalsch.jpg)   |
     | ---------------------------------------- | :------------------------------------: |
