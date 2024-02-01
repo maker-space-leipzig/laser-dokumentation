@@ -8,4 +8,4 @@ Hier gibt es Anleitungen für den Einstieg ins Laser und Nachschlagewerke für d
 <br><br>
 Hast du Vorschläge für weitere Inhalte?
 
-Dann schreib im Slack-Channel *#laser* oder per Mail an [fablab@makerspace-leipzig.de](mailto:fablab@makerspace-leipzig.de) .
+Dann schreib im Slack-Channel *#laser* des Maker Space.
